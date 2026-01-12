@@ -39,6 +39,6 @@ https://www.freepik.com
 
 # SCREENSHOTS
 
-![image](https://github.com/intothisshadow/AO3-Site-Skin---Dreamy/blob/main/screenshot1.png)
-![image](https://github.com/intothisshadow/AO3-Site-Skin---Dreamy/blob/main/screenshot2.png)
-![image](https://github.com/intothisshadow/AO3-Site-Skin---Dreamy/blob/main/screenshot3.png)
+![image](https://github.com/intothisshadow/Ao3-Site-Skins/blob/main/Dreamy/screenshot1.png)
+![image](https://github.com/intothisshadow/Ao3-Site-Skins/blob/main/Dreamy/screenshot2.png)
+![image](https://github.com/intothisshadow/Ao3-Site-Skins/blob/main/Dreamy/screenshot3.png)
